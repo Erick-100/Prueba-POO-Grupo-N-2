@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔎 Búsqueda Inteligente de Estudiantes
+#  Búsqueda Inteligente de Estudiantes
 
 ### Prueba Práctica Integradora: POO en Java
 
@@ -13,7 +13,7 @@
 
 ---
 
-## 🏛️ Información académica
+##  Información académica
 
 | | |
 |---|---|
@@ -31,7 +31,7 @@
 
 ---
 
-## 🎯 Objetivo
+##  Objetivo
 
 Construir una **aplicación de consola funcional en Java** que resuelva un problema real mediante el uso de:
 
@@ -42,13 +42,13 @@ Construir una **aplicación de consola funcional en Java** que resuelva un probl
 - Validación de datos
 - Integración entre clases
 
-## 📌 Situación problemática
+##  Situación problemática
 
 La universidad necesita **localizar estudiantes** de forma rápida y confiable a partir de su **código**, su **nombre** o un **prefijo** del nombre.
 
 ---
 
-## ✨ Funcionalidades
+##  Funcionalidades
 
 | # | Funcionalidad | Descripción |
 |---|---------------|-------------|
@@ -62,7 +62,7 @@ La universidad necesita **localizar estudiantes** de forma rápida y confiable a
 
 ---
 
-## 🧱 Estructura de clases
+##  Estructura de clases
 
 ```
 ┌──────────────┐      ┌──────────────┐      ┌──────────────┐
@@ -87,7 +87,7 @@ La universidad necesita **localizar estudiantes** de forma rápida y confiable a
 
 ---
 
-## 📁 Estructura del proyecto
+##  Estructura del proyecto
 
 ```
 📦 busqueda-estudiantes
@@ -101,12 +101,12 @@ La universidad necesita **localizar estudiantes** de forma rápida y confiable a
 
 ---
 
-## ⚙️ Requisitos
+##  Requisitos
 
 - **JDK 17** o superior (funciona también con versiones anteriores recientes)
 - Una terminal o un IDE como IntelliJ IDEA, NetBeans o VS Code
 
-## ▶️ Cómo ejecutar
+##  Cómo ejecutar
 
 ```bash
 # 1. Clonar el repositorio
@@ -122,7 +122,7 @@ java -cp out Main
 
 ---
 
-## 🖥️ Ejemplo de uso
+##  Ejemplo de uso
 
 ```
 ===== BÚSQUEDA INTELIGENTE DE ESTUDIANTES =====
@@ -153,14 +153,14 @@ Prefijo: zz
 
 ---
 
-## 🛡️ Reglas de validación
+##  Reglas de validación
 
 - El **código** no puede repetirse.
 - El **nombre** no puede estar vacío ni contener solo espacios.
 - Las búsquedas **no distinguen** mayúsculas de minúsculas.
 - Los espacios al inicio, al final o repetidos se **limpian** antes de comparar.
 
-## 🧠 Conceptos de POO aplicados
+##  Conceptos de POO aplicados
 
 - ✅ **Clases y objetos**
 - ✅ **Atributos privados** (encapsulamiento)
