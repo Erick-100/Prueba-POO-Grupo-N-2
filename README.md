@@ -172,7 +172,7 @@ Prefijo: zz
 
 <div align="center">
 
-Hecho con ☕ y mucho código por el **Grupo 02** · Primero "B"
+**Grupo 02** · Primero "B"
 **Universidad Técnica de Ambato** · 2026
 
 </div>
