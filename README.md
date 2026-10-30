@@ -22,7 +22,7 @@
 | **Curso** | Primero "B" |
 | **Grupo** | N.º 02 |
 
-## 👥 Integrantes
+##  Integrantes
 
 - Kevin Garces
 - Esteban Zambrano
