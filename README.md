@@ -35,7 +35,7 @@ Badges del Proyecto
 
 Equipo de Trabajo
 
-| N.° | Integrante | Rol en el Proyecto |
+| N.° | Integrante | Rol en el Proyecto | 
 | :---: | :--- | :--- | :--- |
 | **1** | **Kevin Garcés** | Investigar · Analista 
 | **2** | **Esteban Zambrano** | Preparar · Diseñar 
