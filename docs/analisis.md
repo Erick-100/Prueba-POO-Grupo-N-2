@@ -8,9 +8,9 @@ La universidad necesita localizar estudiantes por código, nombre y prefijos. Lo
 
 | Operación | Entradas |
 | --- | --- |
-| Registrar | Código (texto), nombre (texto) |
-| Buscar por código | Código (texto) |
-| Buscar por prefijo | Prefijo de nombre (texto) |
+| Registrar | Código , nombre  |
+| Buscar por código | Código  |
+| Buscar por prefijo | Prefijo de nombre  |
 | Menú | Opción numérica (0 a 5) |
 
 ## Procesos
