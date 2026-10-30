@@ -24,10 +24,10 @@
 
 ##  Integrantes
 
-- Kevin Garces
-- Esteban Zambrano
-- Erick Cordonez
 - Cristian Gomez
+- Esteban Zambrano
+- Erick Cordónez
+- Kevin Garcés
 
 ---
 
