@@ -1,13 +1,5 @@
 import java.util.ArrayList;
 
-/**
- * Universidad Tecnica de Ambato
- * Facultad de Ingenieria en Sistemas, Electronica e Industrial
- * 
- * Clase de Control: Registro
- * Basado en: Conceptos lineales de cpbook-code (resizeable_array.java)
- * Proposito: Gestion de memoria dinamica y validacion interna de unicidad.
- */
 public class Registro {
     // Coleccion lineal dinamica que simula un arreglo de tamano variable
     private ArrayList<Estudiante> listaEstudiantes;
