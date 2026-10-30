@@ -36,5 +36,5 @@ La universidad necesita localizar estudiantes por código, nombre y prefijos. Lo
 - **Encapsulamiento:** atributos `private final`; `Registro.getEstudiantes()` devuelve una copia para no exponer la lista interna.
 - **Validación en el constructor:** un objeto `Estudiante` nunca queda en estado inválido; los errores se informan con `IllegalArgumentException` y `Main` los captura para mostrarlos.
 - **`ArrayList`** para administrar los registros; la búsqueda recorre la lista, suficiente para el alcance del ejercicio (la referencia original usa un Trie, no exigido).
-- **Búsqueda insensible a tildes** para que «Andrés» sea encontrado con el prefijo «and».
+- **Búsqueda insensible a tildes** para que «Andrés» sea encontrado con el prefijo and.
 - **Mensajes sin tildes** en consola para evitar problemas de codificación en terminales de Windows.
