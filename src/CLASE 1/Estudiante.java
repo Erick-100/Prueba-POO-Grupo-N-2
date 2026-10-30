@@ -1,10 +1,4 @@
-/**
- * Universidad Técnica de Ambato
- * Facultad de Ingeniería en Sistemas, Electrónica e Industrial
- * 
- * Clase de Dominio: Estudiante
- * Requisito: Encapsulamiento y métodos accesores/modificadores estándar.
- */
+
 public class Estudiante {
     // Atributos privados para garantizar el ocultamiento de datos
     private String id;
